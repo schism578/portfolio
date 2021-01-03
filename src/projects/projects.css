@@ -1,0 +1,44 @@
+h2 {
+    font-size: 32px;
+    text-decoration: underline;
+    color: white;
+}
+
+h3 {
+    font-size: 26px;
+}
+
+#uncorked-image {
+    max-height: 60vh;
+    margin: 0 2em;
+}
+
+.fab {
+    margin: 0.2em;
+    font-size: 40px;
+}
+
+#vercel-logo {
+    margin: 0 0.5em;
+    width: 35px;
+    border-radius: 5px;
+    display: inline;
+    text-align: center;
+}
+
+.app-link {
+    display: inline;
+    text-align: center;
+    margin: 1em;
+    color: rgb(255, 255, 255);
+}
+
+.app-link:hover, .vercel-link:hover {
+    color: blue;
+}
+
+.split {
+    border-bottom: 2px solid black;
+    width: 90%;
+    margin: auto;
+}

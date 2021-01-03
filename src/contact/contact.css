@@ -1,0 +1,10 @@
+.contact-link {
+    display: inline;
+    text-align: center;
+    margin: 1em;
+    color: rgb(0, 0, 0);
+}
+
+.contact-link:hover {
+    color: blue;
+}

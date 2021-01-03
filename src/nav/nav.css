@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC&display=swap');
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+}
+
+.nav-button {
+    margin: 1em 0.5em;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    width: 6em;
+    height: 3em;
+    border-radius: 5px;
+    color: black;
+    background-color: lightgrey;
+}
+
