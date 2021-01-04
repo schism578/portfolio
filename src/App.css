@@ -5,21 +5,22 @@
 }
 
 body {
-  background: url('./images/clouds.jpg')center center no-repeat fixed;
+  background: url('./images/background.jpg')center center no-repeat fixed;
   background-size: cover;
   font-family: 'Noto Serif', serif;
-  color: rgb(37, 39, 58);
+  color: rgb(145, 181, 214);
 }
 
 h1 {
   margin: 1.5em auto;
   font-size: 40px;
+  color: white;
 }
 
 p {
   margin: auto;
   padding: 2em;
-  color: rgb(20, 21, 31);
+  color: rgb(145, 181, 214);
   font-weight: 600;
   max-width: 60vw;
   min-height: 40vh;

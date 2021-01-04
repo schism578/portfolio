@@ -8,7 +8,8 @@ h3 {
     font-size: 26px;
 }
 
-#uncorked-image {
+#uc-home-image, #uc-main-image, #ym-home-image, 
+#ym-entry-image, #wn-home-image, #wn-answer-image  {
     max-height: 60vh;
     margin: 0 2em;
 }
@@ -34,7 +35,7 @@ h3 {
 }
 
 .app-link:hover, .vercel-link:hover {
-    color: blue;
+    color: rgb(104, 165, 255);
 }
 
 .split {

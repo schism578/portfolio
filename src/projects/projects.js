@@ -6,8 +6,8 @@ export default function Projects() {
         <div>
             <h2>projects</h2>
             <h3>- uncorked -</h3>
-            <img src='/images/home.png' alt='home page screenshot' id='uncorked-image' />
-            <img src='/images/main.png' alt='main page screenshot' id='uncorked-image' />
+            <img src='/images/home.png' alt='home page screenshot' id='uc-home-image' />
+            <img src='/images/main.png' alt='main page screenshot' id='uc-main-image' />
             <p>
                 Uncorked is a way to record your favorite wine experiences.
                     <br></br>
@@ -44,8 +44,8 @@ export default function Projects() {
             <br></br>
             <div className='split'></div>
             <h3>- YouMove -</h3>
-            <img src='/images/ym-home.png' alt='home page screenshot' id='uncorked-image' />
-            <img src='/images/entry.png' alt='main page screenshot' id='uncorked-image' />
+            <img src='/images/ym-home.png' alt='home page screenshot' id='ym-home-image' />
+            <img src='/images/entry.png' alt='main page screenshot' id='ym-entry-image' />
             <p>
                 YouMove combines a user's caloric intake with their exercise output.
                 By calculating the user's basal metabolic rate (BMR) and subtracting it from their daily caloric
@@ -83,8 +83,8 @@ export default function Projects() {
             <br></br>
             <div className='split'></div>
             <h3>- Wine, Not -</h3>
-            <img src='/images/landing.png' alt='home page screenshot' id='uncorked-image' />
-            <img src='/images/answer.png' alt='main page screenshot' id='uncorked-image' />
+            <img src='/images/landing.png' alt='home page screenshot' id='wn-home-image' />
+            <img src='/images/answer.png' alt='main page screenshot' id='wn-answer-image' />
             <p>
                 Lightweight dynamic quiz app that can be expanded to any number of questions
                 and/or answers. Primarily jQuery funtionality with attention to organizing
