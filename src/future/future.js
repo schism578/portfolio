@@ -6,8 +6,8 @@ export default function Future() {
         <div>
             <p>My pursuit of a profession in web development is something of a paradigm shift
             and also a serendipitous realization I had, as though I had been preparing for this all of my life.
-            All of the skills and traits I've accumulated over the years has put me in this strategic place at this
-            particular time and the pieces and places were all aligned right at the moment I was ready to make the
+            All of the skills and traits I've accumulated over the years have put me in this strategic place at this
+            particular time and the pieces and places were all aligned right at the moment I was ready to make my
             commitment to a new future.
             <br></br>
             <br></br>

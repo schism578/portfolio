@@ -5,8 +5,7 @@ export default function Home() {
     return (
         <div>
             <section className='text-body'>
-                <h2>dreaming...</h2>
-                <p className='home-quote'> up ways to preserve our world through technology</p>
+                <p className='home-quote'>Dreaming up ways to preserve our world through technology</p>
             </section>
         </div>
     )
