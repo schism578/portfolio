@@ -1,0 +1,11 @@
+.Contact a {
+    display: inline;
+    text-align: center;
+    margin: 100px 40px;
+    font-size: 40px;
+    color: rgb(37, 67, 95);
+}
+
+.Contact a:hover {
+    color: rgb(20, 36, 51)
+}

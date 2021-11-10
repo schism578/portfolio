@@ -1,12 +1,12 @@
 import React from 'react';
-import './home.css';
+import classes from './home.module.css';
 
-export default function Home() {
+const Home = () => {
     return (
-        <div>
-            <section className='text-body'>
-                <p className='home-quote'>Dreaming up ways to preserve our world through technology</p>
-            </section>
+        <div className={classes.Home}>
+            <p className='home-quote'></p>
         </div>
     )
 }
+
+export default Home;
