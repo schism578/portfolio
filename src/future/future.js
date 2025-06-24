@@ -4,19 +4,15 @@ import classes from './future.module.css';
 const Future = () => {
     return (
         <div className={classes.Future}>
-            <p>My pursuit of a profession in web development is something of a paradigm shift
-                and also a serendipitous realization I had, as though I had been preparing for this all of my life.
-                All of the skills and traits I've accumulated over the years have put me in this strategic place at this
-                particular time and the pieces and places were all aligned right at the moment I was ready to make my
-                commitment to a new future.
-            <br></br>
-            <br></br>
-                While I have fallen in love with front end web development, I made a realization, or more accurately a 
-                self-actualization, that my true professional intention lies in 3D artistry and its application within 
-                video game programming and movie production. I dream in the building of stories and have a critical 
-                and passionate desire to take my apprentice-level comprehension of web development technologies and leverage 
-                it to become a creator of people, places, and things within elaborately imagined worlds and universes.
-            </p>
+            <p>Getting into web development was both a big shift and a happy accident—one of those moments where 
+            everything just kind of clicked, and it felt like the path had been forming all along without me 
+            fully realizing it. The skills I've picked up over the years somehow landed me right where I need 
+            to be, at the right time, ready to take on something new.</p>
+            <p>Right now, I'm in that exciting (and slightly messy) stage of soaking up new ideas, figuring out 
+            what great work looks like to me, and slowly putting the pieces together. Some things click right 
+            away, others take a few tries—but that's part of the process. I've learned to stay flexible, keep a
+            n open mind, and accept that growth often means letting go of what worked yesterday to make room for 
+            what works better today.</p>
         </div>
     )
 }

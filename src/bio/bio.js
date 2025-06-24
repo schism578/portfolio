@@ -4,23 +4,16 @@ import classes from './bio.module.css';
 const Bio = () => {
     return (
         <div className={classes.Bio}>
-            <p>I have always found myself toiling in pursuits of the meticulous. My father, an artist of hundreds
-                of miniature paintings, led me to see empiricism in everything - how the galactic is explained or evidenced
-                by the microscopic, the universe represented in an atom. Such as I feel like a single cell within the 
-                organism of the world, I have proven my capacity to achieve successes at challenges that felt much larger 
-                than myself at their outset. Graduating from Thinkful's Full Stack Engineering program, I pushed out 
-                every wall, developing a curiousity about the inner and atomic workings of our technologies, and amassing 
-                problem-solving methods that translate programming languages into digital realities.
-            <br></br>
-            <br></br>
-                I spent many years of my life in various stages of education. I have always been pursuant of a higher 
-                comprehension of everything that has drawn my attention. Fine art and the sciences of all specialties 
-                captivated me through my collegiate studies. But how could I meld them all into one greater skill? I wanted 
-                to combine them and apply all of the tact and mental coordination I had gained over those years "learning to 
-                learn." I had an epiphany, looking at the technology that surrounded me and the world all around me imagining 
-                the trillions of possibilities and directions I could pursue in bridging them and obtaining a profession 
-                completely designed around my prowess and intent.
-            </p>
+            <p>After completing Thinkful's Full Stack Web Development bootcamp in 2021, I transitioned into tech following 
+            two decades in Chicago's fine dining industry. This career shift was driven by a desire to challenge myself 
+            and explore the full breadth of web development. With a creative eye and a methodical mindset, I found a 
+            natural alignment with front-end development—where design, structure, and user experience converge.</p>
+          <p>Along the way, I've come to appreciate the deep connection between programming and storytelling. Just as in
+             narrative writing, building an application involves characters, dialogue, interaction, and an intentional 
+             path forward—each element working together to deliver a purposeful outcome.</p>
+          <p>I bring to my work a strong sense of duty, a commitment to environmental conservation, and a passion for 
+            building tools that uplift others. With imagination as the starting point, I believe technology can—and 
+            should—serve the greater good.</p>
         </div>
     )
 }
