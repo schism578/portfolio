@@ -31,7 +31,8 @@ class App extends React.Component {
     <div className="App">
       <NavBar />
       <header className="App-header">
-        <h1>Adrian Marquis<br></br>web developer</h1>
+        <h1>Adrian Marquis</h1>
+          <h2>web developer</h2>
       </header>
       <main className='App__main'>{this.renderRoutes()}</main>
     </div>
