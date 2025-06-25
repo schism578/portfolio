@@ -8,7 +8,9 @@
 }
 
 .NavLinks a:link {
-    font-family: 'IM Fell English SC', serif;
+font-family: "Anonymous Pro", monospace, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-style: normal;    
     font-size: 30px;
     color: black;
     text-decoration: none;
