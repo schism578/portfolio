@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 .NavLinks nav ul {
     display: flex;
@@ -18,7 +18,7 @@
 }
 
 .NavLinks a:visited {
-    color: rgb(255, 255, 255);
+    color: rgb(165, 168, 170);
 }
 
 .NavLinks a:hover {
@@ -26,7 +26,7 @@
 }
 
 .NavLinks a:active {
-    color: rgb(255, 255, 255);
+    color: rgb(165, 168, 170);
 }
 
 @media (max-width: 990px) {
@@ -41,6 +41,6 @@
     }
 
     .NavLinks a:hover {
-        color: rgb(165, 168, 170);
+        color: rgb(255, 255, 255);
     }
 }
