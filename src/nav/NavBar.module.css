@@ -20,7 +20,7 @@
     }
 
     .NavBar .MobileNavigation .Hamburger:hover {
-        color: rgba(74, 100, 138, 0.959);
+        color: rgb(255, 255, 255);
     }
 
     .NavBar nav ul {
