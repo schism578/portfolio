@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #293640;
+  /*background-color: #293640;*/
   background: url('./images/background1.png')center center no-repeat fixed;
   background-size: cover;
   font-family: 'Noto Serif', serif;
