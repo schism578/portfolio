@@ -7,7 +7,7 @@ const Home = () => {
             <p className='home-quote'>
                 Where imagination meets engineering, the future takes shape.<br />
                 Science fiction becomes science fact, and what was once impossible becomes inevitable.<br />
-                Technology is not just a tool—it is a language of change, a bridge between vision and reality.<br />
+                Technology is not just a tool &mdash; it is a language of change, a bridge between vision and reality.<br />
                 Code can protect the wild, empower the vulnerable, and connect the world with purpose.<br />
                 Every line written is a chance to heal, to build, to inspire.<br />
                 In the hands of the thoughtful, creation becomes conservation.<br />
