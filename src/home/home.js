@@ -11,7 +11,7 @@ const Home = () => {
                 Code can protect the wild, empower the vulnerable, and connect the world with purpose.<br />
                 Every line written is a chance to heal, to build, to inspire.<br />
                 In the hands of the thoughtful, creation becomes conservation.<br />
-                The future is not found—it is made.
+                The future is not found &mdash; it is made.
             </p>
         </div>
     )
