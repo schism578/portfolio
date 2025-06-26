@@ -4,8 +4,8 @@ import './projects.css';
 export default function Projects() {
     return (
         <div>
-            <h2>projects</h2>
-            <h3>- uncorked -</h3>
+            <h3>projects</h3>
+            <h4>- uncorked -</h4>
             <img src='/images/home.png' alt='home page screenshot' id='uc-home-image' />
             <img src='/images/main.png' alt='main page screenshot' id='uc-main-image' />
             <p>
@@ -43,7 +43,7 @@ export default function Projects() {
             <br></br>
             <br></br>
             <div className='split'></div>
-            <h3>- YouMove -</h3>
+            <h4>- YouMove -</h4>
             <img src='/images/ym-home.png' alt='home page screenshot' id='ym-home-image' />
             <img src='/images/entry.png' alt='main page screenshot' id='ym-entry-image' />
             <p>
@@ -82,7 +82,7 @@ export default function Projects() {
             <br></br>
             <br></br>
             <div className='split'></div>
-            <h3>- Wine, Not -</h3>
+            <h4>- Wine, Not -</h4>
             <img src='/images/landing.png' alt='home page screenshot' id='wn-home-image' />
             <img src='/images/answer.png' alt='main page screenshot' id='wn-answer-image' />
             <p>
